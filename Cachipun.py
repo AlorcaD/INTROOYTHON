@@ -4,7 +4,7 @@ Created on Sat May 27 11:35:11 2023
 
 @author: aaron
 """
-
+holaaa como estasssss 
 #jugada de la maquin
 def maquina():
     jugada = rd.randrange(0, 3)
